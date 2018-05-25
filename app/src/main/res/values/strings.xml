@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Калькулятор нормы потребления каллорий</string>
+    <string name="gender_male">Мужской</string>
+    <string name="gender_female">Женский</string>
+    <string name="gender_label">Пол</string>
+    <string name="weight_label">Вес*</string>
+    <string name="weight_units">кг</string>
+    <string name="height_label">Рост*</string>
+    <string name="height_units">см</string>
+    <string name="age_label">Возраст*</string>
+    <string name="age_units">лет</string>
+    <string name="activity_label">Уровень активности*</string>
+    <string name="activity_slow">Малоподвижный образ жизни</string>
+    <string name="activity_base">Обычная физнагрузка</string>
+    <string name="activity_superman">Интенсивная физнагрузка</string>
+    <string name="calories_result">Сколько нужно калорий в день</string>
+    <string name="empty_result">Результат не рассчитан</string>
+</resources>
